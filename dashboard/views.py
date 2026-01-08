@@ -30,7 +30,7 @@ class DashboardView(View):
                 "valor": 83782
             },
             {
-                "fecha": "203-06-01",
+                "fecha": "2023-06-01",
                 "cliente": "Daniel Ballesteros",
                 "metrica": "Costos",
                 "valor": 2832
